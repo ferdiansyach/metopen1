@@ -1,0 +1,14 @@
+--- HASIL KORELASI GABUNGAN ---
+
+--- Matriks Korelasi untuk file: OPMC_AHU_L6_hasil_interpolasi_1_Jam.csv ---
+                 Konsumsi Energi   Voltage  Power Factor     Month      Week       Day  Is Holiday
+Konsumsi Energi              NaN       NaN           NaN       NaN       NaN       NaN         NaN
+Voltage                      NaN  1.000000           NaN -0.122098 -0.121024  0.019765    0.082594
+Power Factor                 NaN       NaN           NaN       NaN       NaN       NaN         NaN
+Month                        NaN -0.122098           NaN  1.000000  0.990644 -0.066072   -0.111638
+Week                         NaN -0.121024           NaN  0.990644  1.000000  0.010069   -0.115052
+Day                          NaN  0.019765           NaN -0.066072  0.010069  1.000000   -0.049463
+Is Holiday                   NaN  0.082594           NaN -0.111638 -0.115052 -0.049463    1.000000
+
+============================================================
+
