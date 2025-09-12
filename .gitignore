@@ -1,4 +1,12 @@
-venv
-.env
-venv/*
+# Mengabaikan semua file data CSV
 *.csv
+
+# Mengabaikan file model Machine Learning
+*.h5
+*.pkl
+
+# Mengabaikan folder environment (jika ada)
+energy_prediction_env/
+
+# Mengabaikan folder cache Jupyter Notebook
+.ipynb_checkpoints/
