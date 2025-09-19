@@ -10,3 +10,6 @@ energy_prediction_env/
 
 # Mengabaikan folder cache Jupyter Notebook
 .ipynb_checkpoints/
+
+# Abaikan semua file .joblib
+*.joblib
