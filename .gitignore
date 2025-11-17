@@ -1,15 +1,32 @@
-# Mengabaikan semua file data CSV
-*.csv
+# Python/Environment
+venv/
+.env
+energy_prediction_env/
+__pycache__/
 
-# Mengabaikan file model Machine Learning
+# Data
+*.csv
+*.json
+# File output besar dari praproses
+praproses/model_output_harian
+
+# Model & Scaler
 *.h5
 *.pkl
+*.joblib
+scalers.pkl
 
-# Mengabaikan folder environment (jika ada)
-energy_prediction_env/
+# Log & Laporan (Outputs)
+*.log
+*.png
+*.md
+README.md
 
-# Mengabaikan folder cache Jupyter Notebook
+# Jupyter
 .ipynb_checkpoints/
 
-# Abaikan semua file .joblib
-*.joblib
+# VSCode
+.vscode/
+
+# Abaikan file .gitattributes
+.gitattributes
