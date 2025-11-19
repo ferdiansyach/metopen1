@@ -1,0 +1,11 @@
+
+LAPORAN KESIMPULAN EDA
+======================
+Tanggal: 2025-11-20 04:06:54.061676
+Total Data: 8958 baris
+Meter Unik: 27
+
+KESIMPULAN UTAMA:
+1. Power Factor Rata-rata: 0.679
+2. Voltage Rata-rata: 227.67 V
+3. Total Energi Terhitung: 3,626,383,472.76 kWh
